@@ -1,3 +1,4 @@
-# 运行产生的本地状态文件（每台电脑自己生成，无需上传）
-nvcolor-lastpage.json
-*.state
+# 系统 / 临时文件
+.DS_Store
+Thumbs.db
+Desktop.ini
